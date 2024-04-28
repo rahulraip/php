@@ -2,6 +2,7 @@
 
 print("Hey! Welcome to the Futuristic Site!!");
 print("<br>");
-print("version 1")
+print("version 2")
+print(next code)
 
 ?>
